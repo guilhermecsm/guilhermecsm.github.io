@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-   image: "/image/msu.jpg"
+   image: "/image/sf.JPG"
 ---
 
 
