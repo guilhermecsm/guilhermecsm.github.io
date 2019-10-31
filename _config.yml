@@ -113,6 +113,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Rio de Janeiro, Brazil"
   email            :
+  github           : "guilhermecsm"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -293,3 +294,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  # pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
