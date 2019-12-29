@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "CV"
 permalink: /resume/
 ---
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/image/resume.pdf" alt="">
+![alt]({{ site.url }}{{ site.baseurl }}/image/resume.pdf)
