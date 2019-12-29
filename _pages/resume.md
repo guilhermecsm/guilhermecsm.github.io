@@ -7,4 +7,14 @@ categories: writing
 permalink: /resume/
 ---
 
-<iframe src="https://github.com/guilhermecsm/guilhermecsm.github.io/blob/master/image/resume.pdf" width="50%" height="50%" scrolling="yes"></iframe>
+
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example with iframe</h1>
+    <iframe src="https://github.com/guilhermecsm/guilhermecsm.github.io/blob/master/image/resume.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
