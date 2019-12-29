@@ -1,8 +1,9 @@
 ---
-title: "Resume"
+title: "Resume v2"
 permalink: /resume/
 ---
 
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/image/resume.pdf)
+
+<embed src="https://github.com/guilhermecsm/guilhermecsm.github.io/blob/master/image/resume.pdf" type="application/pdf"/>
