@@ -1,9 +1,9 @@
 ---
-title: "Resume v2"
+title: "Resume v3"
 permalink: /resume/
 ---
 
 
 
 
-<embed src="https://github.com/guilhermecsm/guilhermecsm.github.io/blob/master/image/resume.pdf" type="application/pdf"/>
+<iframe src="https://github.com/guilhermecsm/guilhermecsm.github.io/blob/master/image/resume.pdf" width="100%" height="100%"></iframe>
